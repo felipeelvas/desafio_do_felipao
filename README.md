@@ -1,33 +1,3 @@
-
- 
-Instruções para eDesafio
-# 1️⃣ Desafio Classificador de nível de Herói
-
-**O Que deve ser utilizado**
-
-- Variáveis
-- Operadores
-- Laços de repetição
-- Estruturas de decisões
-
-## Objetivo
-
-Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
-
-Se XP for menor do que 1.000 = Ferro
-Se XP for entre 1.001 e 2.000 = Bronze
-Se XP for entre 2.001 e 5.000 = Prata
-Se XP for entre 5.001 e 7.000 = Ouro
-Se XP for entre 7.001 e 8.000 = Platina
-Se XP for entre 8.001 e 9.000 = Ascendente
-Se XP for entre 9.001 e 10.000= Imortal
-Se XP for maior ou igual a 10.001 = Radiante
-
-## Saída
-
-Ao final deve se exibir uma mensagem:
-"O Herói de nome **{nome}** está no nível de **{nivel}**"
-
 # 🏆 Classificador de Nível de Herói
 
 [![Node.js](https://img.shields.io/badge/Node.js-14.0+-green.svg)](https://nodejs.org/)
@@ -40,22 +10,48 @@ Um sistema interativo para classificar heróis com base em sua experiência (XP)
 
 ## 📋 Índice
 
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Funcionalidades](#funcionalidades)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Pré-requisitos](#pré-requisitos)
-- [Instalação](#instalação)
+- [Objetivo do Desafio](#objetivo)
+- [Sobre o Projeto](#-sobre-o-projeto)
+- [Funcionalidades](#-funcionalidades)
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Pré-requisitos](#-pré-requisitos)
+- [Instalação](#-instalação)
   - [Windows](#windows)
   - [Linux](#linux)
   - [macOS](#macos)
-- [Como Executar](#como-executar)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Lógica de Classificação](#lógica-de-classificação)
-- [Exemplos de Uso](#exemplos-de-uso)
-- [Testes](#testes)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Autor](#autor)
+- [Como Executar](#️-como-executar)
+- [Estrutura do Projeto](#-estrutura-do-projeto)
+- [Lógica de Classificação](#-lógica-de-classificação)
+- [Exemplos de Uso](#-exemplos-de-uso)
+- [Testes](#-testes)
+- [Contribuição](#-contribuição)
+- [Licença](#-licença)
+- [Autor](#-autor)
+
+## Objetivo
+
+### 🎯 Desafio Classificador de Nível de Herói
+
+**O Que deve ser utilizado:**
+- Variáveis
+- Operadores
+- Laços de repetição
+- Estruturas de decisões
+
+**Meta:** Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar a classificação baseada nos ranges:
+
+| Range de XP | Nível |
+|-------------|-------|
+| 0 - 999 | Ferro |
+| 1.000 - 2.000 | Bronze |
+| 2.001 - 5.000 | Prata |
+| 5.001 - 7.000 | Ouro |
+| 7.001 - 8.000 | Platina |
+| 8.001 - 9.000 | Ascendente |
+| 9.001 - 10.000 | Imortal |
+| 10.001+ | Radiante |
+
+**Saída Esperada:** "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
 ## 🎯 Sobre o Projeto
 
