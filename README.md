@@ -37,16 +37,18 @@ Um sistema interativo para classificar heróis com base em sua experiência (XP)
 
 ## 📋 Índice
 
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Funcionalidades](#funcionalidades)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Sobre o Projeto](#-sobre-o-projeto)
+- [Funcionalidades](#-funcionalidades)
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Pré-requisitos](#pré-requisitos)
-- [Instalação](#instalação)
-  - [Windows](#windows)
-  - [Linux](#linux)
-  - [macOS](#macos)
+- [Instalação](#-instalação)
+  - [Windows](#-windows)
+  - [Linux](#-linux)
+  - [macOS](#-macos)
 - [Como Executar](#como-executar)
-- [Autor](#autor)
+- [Autor](#-autor)
+- [Próximos Passos](#-próximos-passos)
+- [Agradecimentos](#-agradecimentos)
 
 ## 🎯 Sobre o Projeto
 
