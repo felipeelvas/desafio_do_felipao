@@ -1,6 +1,6 @@
 
  
-Instruções para eDesafio
+Instruções para o Desafio
 # 1️⃣ Desafio Classificador de nível de Herói
 
 **O Que deve ser utilizado**
@@ -30,9 +30,6 @@ Ao final deve se exibir uma mensagem:
 
 # 🏆 Classificador de Nível de Herói
 
-[![Node.js](https://img.shields.io/badge/Node.js-14.0+-green.svg)](https://nodejs.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 > **Projeto desenvolvido como parte do Bootcamp Santander 2025 - Fundamentos de Programação**
 
