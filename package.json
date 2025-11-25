@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "desafio_do_felipao",
+  "version": "1.0.0",
+  "description": "Instruções para entrega\r # 1️⃣ Desafio Classificador de nível de Herói",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipeelvas/desafio_do_felipao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipeelvas/desafio_do_felipao/issues"
+  },
+  "homepage": "https://github.com/felipeelvas/desafio_do_felipao#readme"
+}
