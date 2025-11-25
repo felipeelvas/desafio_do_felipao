@@ -238,7 +238,7 @@ Conecte-se comigo:
 
  📱 Versão mobile em Flutter
 
-🏆 Agradecimentos
+# 🏆 Agradecimentos
 
 DIO (Digital Innovation One) - Pela oportunidade de aprendizado
 
